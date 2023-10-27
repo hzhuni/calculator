@@ -6,4 +6,4 @@ This is a sample application to improve my essential Java skills
 * sum
 * subsitition
 * multiply
-* division
+* divide
